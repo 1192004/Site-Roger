@@ -1,0 +1,15 @@
+* {
+   margin: 0%;
+   padding: 0%;
+}
+/*Cabeçario*/
+header{
+    background-color: rgb(179, 207, 75);
+    
+    
+}
+/*frases*/
+
+.frases{
+    display: flex;
+}
